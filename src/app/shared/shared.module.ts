@@ -12,6 +12,10 @@ import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
 import { MatCardModule } from '@angular/material/card';
 import { HeaderComponent } from './components/header/header.component';
+import { FooterComponent } from './components/footer/footer.component';
+import { FeatureComponent } from './components/feature/feature.component';
+import { LoaderComponent } from './components/loader/loader.component';
+import { SidenavComponent } from './components/sidenav/sidenav.component';
 
 const commonModules = [
     HttpClientModule,
@@ -27,7 +31,11 @@ const commonModules = [
 @NgModule({
     declarations: [
     BaseLayoutComponent,
-    HeaderComponent
+    HeaderComponent,
+    FooterComponent,
+    FeatureComponent,
+    LoaderComponent,
+    SidenavComponent
   ],
     imports: [CommonModule, RouterModule, ...commonModules],
     exports: [...commonModules]
