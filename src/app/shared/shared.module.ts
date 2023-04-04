@@ -11,6 +11,7 @@ import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { MatSidenavModule } from '@angular/material/sidenav';
 import { MatListModule } from '@angular/material/list';
 import { MatCardModule } from '@angular/material/card';
+import { HeaderComponent } from './components/header/header.component';
 
 const commonModules = [
     HttpClientModule,
@@ -25,7 +26,8 @@ const commonModules = [
   
 @NgModule({
     declarations: [
-    BaseLayoutComponent
+    BaseLayoutComponent,
+    HeaderComponent
   ],
     imports: [CommonModule, RouterModule, ...commonModules],
     exports: [...commonModules]
