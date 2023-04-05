@@ -3,12 +3,12 @@ export class productsDB {
         {
             id: 1,
             created_by: {
-                name: 'Sajal Mia',
+                name: 'Hector',
                 avatar: 'assets/images/avatar.png'
             },
             images: ['assets/images/products/02-1.png', 'assets/images/products/02-2.png', 'assets/images/products/02-3.png'],
-            name: 'Industry marketing by subscription',
-            price: 3000.00,
+            name: 'Nước đông trùng hạ thảo Hector Collagen',
+            price: 580000.00,
             rating: 4.8,
             feedback: 3,
             category: 'digitalization',
@@ -21,12 +21,12 @@ export class productsDB {
         {
             id: 2,
             created_by: {
-                name: 'Sajal Mia',
+                name: 'Hector',
                 avatar: 'assets/images/avatar.png'
             },
             images: ['assets/images/products/01-1.png', 'assets/images/products/01-2.png', 'assets/images/products/01-3.png'],
-            name: 'Potential analysis - digitization for manufacturing companies',
-            price: 3000.00,
+            name: 'Nước đông trùng hạ thảo Hector Collagen',
+            price: 580000.00,
             rating: 4.8,
             feedback: 3,
             category: 'digitalization',
@@ -39,12 +39,12 @@ export class productsDB {
         {
             id: 3,
             created_by: {
-                name: 'Sajal Mia',
+                name: 'Hector',
                 avatar: 'assets/images/avatar.png'
             },
             images: ['assets/images/products/01-1.png', 'assets/images/products/01-2.png', 'assets/images/products/01-3.png'],
-            name: 'Task Management Scheduler',
-            price: 3000.00,
+            name: 'Nước đông trùng hạ thảo Hector Sâm',
+            price: 580000.00,
             rating: 4.8,
             feedback: 3,
             category: 'digitalization',
@@ -57,12 +57,12 @@ export class productsDB {
         {
             id: 4,
             created_by: {
-                name: 'Sajal Mia',
+                name: 'Hector',
                 avatar: 'assets/images/avatar.png'
             },
             images: ['assets/images/products/02-1.png', 'assets/images/products/02-2.png', 'assets/images/products/02-3.png'],
-            name: 'Industry marketing by subscription',
-            price: 3000.00,
+            name: 'Nước đông trùng hạ thảo Hector Collagen',
+            price: 580000.00,
             rating: 4.8,
             feedback: 3,
             category: 'digitalization',
@@ -75,12 +75,12 @@ export class productsDB {
         {
             id: 5,
             created_by: {
-                name: 'Sajal Mia',
+                name: 'Hector',
                 avatar: 'assets/images/avatar.png'
             },
             images: ['assets/images/products/01-1.png', 'assets/images/products/01-2.png', 'assets/images/products/01-3.png'],
-            name: 'Potential analysis - digitization for manufacturing companies',
-            price: 3000.00,
+            name: 'Nước đông trùng hạ thảo Hector Collagen',
+            price: 580000.00,
             rating: 4.8,
             feedback: 3,
             category: 'digitalization',
@@ -93,12 +93,12 @@ export class productsDB {
         {
             id: 6,
             created_by: {
-                name: 'Sajal Mia',
+                name: 'Hector',
                 avatar: 'assets/images/avatar.png'
             },
             images: ['assets/images/products/02-1.png', 'assets/images/products/02-2.png', 'assets/images/products/02-3.png'],
-            name: 'Industry marketing by subscription',
-            price: 3000.00,
+            name: 'Nước đông trùng hạ thảo Hector Sâm',
+            price: 580000.00,
             rating: 4.8,
             feedback: 3,
             category: 'digitalization',
@@ -111,12 +111,12 @@ export class productsDB {
         {
             id: 7,
             created_by: {
-                name: 'Sajal Mia',
+                name: 'Hector',
                 avatar: 'assets/images/avatar.png'
             },
             images: ['assets/images/products/01-1.png', 'assets/images/products/01-2.png', 'assets/images/products/01-3.png'],
-            name: 'Potential analysis - digitization for manufacturing companies',
-            price: 3000.00,
+            name: 'Nước đông trùng hạ thảo Hector Collagen',
+            price: 580000.00,
             rating: 4.8,
             feedback: 3,
             category: 'digitalization',
@@ -129,12 +129,12 @@ export class productsDB {
         {
             id: 8,
             created_by: {
-                name: 'Sajal Mia',
+                name: 'Hector',
                 avatar: 'assets/images/avatar.png'
             },
             images: ['assets/images/products/02-1.png', 'assets/images/products/02-2.png', 'assets/images/products/02-3.png'],
-            name: 'Industry marketing by subscription',
-            price: 3000.00,
+            name: 'Nước đông trùng hạ thảo Hector Sâm',
+            price: 580000.00,
             rating: 4.8,
             feedback: 3,
             category: 'digitalization',
@@ -147,12 +147,12 @@ export class productsDB {
         {
             id: 9,
             created_by: {
-                name: 'Sajal Mia',
+                name: 'Hector',
                 avatar: 'assets/images/avatar.png'
             },
             images: ['assets/images/products/01-1.png', 'assets/images/products/01-2.png', 'assets/images/products/01-3.png'],
-            name: 'Potential analysis - digitization for manufacturing companies',
-            price: 3000.00,
+            name: 'Nước đông trùng hạ thảo Hector Collagen',
+            price: 580000.00,
             rating: 4.8,
             feedback: 3,
             category: 'digitalization',

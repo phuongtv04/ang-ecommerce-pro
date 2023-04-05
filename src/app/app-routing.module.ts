@@ -27,6 +27,10 @@ const routes: Routes = [
     path: '',
     component: BaseLayoutComponent,
     children: baseLayoutRouting
+  },
+  {
+    path: 'auth',
+    loadChildren: () => import('./auth/auth.module').then(m => m.AuthModule)
   }
 ];
 

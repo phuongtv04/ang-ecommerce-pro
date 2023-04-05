@@ -6,22 +6,22 @@ export interface Menu {
 export const menuList: Menu[] = [
   {
     path: '/products',
-    name: 'Products',
+    name: 'Sản phẩm',
   },
   {
     path: '/about',
-    name: 'About',
+    name: 'Thông tin',
   },
   {
     path: '/contact',
-    name: 'Contact',
+    name: 'Liên hệ',
   },
   {
     path: '/dashboard',
-    name: 'Dashboard',
+    name: 'Khách hàng',
   },
   {
     path: '/doc',
-    name: 'Doc',
+    name: 'Tin tức',
   },
 ];
